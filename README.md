@@ -69,7 +69,7 @@ Dropout + L2 + EarlyStopping: 0.9696
 ```
 
 And a plot showing validation loss over epochs.
-![alt text](image.png)
+![alt text](Screenshot 2025-07-28 110655.png)
 
 ## 📚 Learnings
 
@@ -78,7 +78,7 @@ This experiment highlights how each regularization technique helps improve gener
 ## 👨‍💻 Author
 
 Muzammil Sohail – AI Engineer  
-GitHub: [[your-profile-link](https://github.com/muzammil7866)]
+GitHub: [https://github.com/muzammil7866]
 
 ## 📝 License
 
