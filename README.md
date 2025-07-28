@@ -69,7 +69,7 @@ Dropout + L2 + EarlyStopping: 0.9696
 ```
 
 And a plot showing validation loss over epochs.
-![Validation Loss Plot](Screenshot 2025-07-28 110655-1.png)
+![Validation Loss Plot](Screenshot 2025-07-28 110655.png)
 
 ## 📚 Learnings
 
